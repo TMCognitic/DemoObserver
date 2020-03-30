@@ -23,6 +23,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04 Simplification finale de
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoObserverV4", "DemoObserverV4\DemoObserverV4.csproj", "{45F894B8-CB1B-4634-ABAE-E0901D98AE9E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05 Utilisation d'un événement", "05 Utilisation d'un événement", "{AC9DDC36-F6FC-4211-AB97-6EF94F50DC5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoObserverV5", "DemoObserverV5\DemoObserverV5.csproj", "{2668B5EA-A28A-4826-9C24-AF00DB7929CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -49,6 +53,10 @@ Global
 		{45F894B8-CB1B-4634-ABAE-E0901D98AE9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45F894B8-CB1B-4634-ABAE-E0901D98AE9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45F894B8-CB1B-4634-ABAE-E0901D98AE9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2668B5EA-A28A-4826-9C24-AF00DB7929CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2668B5EA-A28A-4826-9C24-AF00DB7929CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2668B5EA-A28A-4826-9C24-AF00DB7929CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2668B5EA-A28A-4826-9C24-AF00DB7929CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -59,6 +67,7 @@ Global
 		{2E600A48-00C6-41A4-B935-0541C045DB87} = {D8DD6448-F3F1-44F9-99E6-D6AAF34B9AE6}
 		{D7945899-0A75-40E0-A2B9-EB7EE51459A8} = {C74E8E3D-1698-46DF-ADD6-719A40BF23B1}
 		{45F894B8-CB1B-4634-ABAE-E0901D98AE9E} = {E3F07F5F-877C-4FA3-8B21-7C2075B4999A}
+		{2668B5EA-A28A-4826-9C24-AF00DB7929CD} = {AC9DDC36-F6FC-4211-AB97-6EF94F50DC5F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D781DE2B-A281-43D8-A6A5-D21CDBD08B08}
