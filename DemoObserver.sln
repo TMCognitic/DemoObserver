@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "00 Implementation UML", "00 Implementation UML", "{4BC41FBD-45CB-4419-91B9-020EC4E6E1FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoObserver", "DemoObserver\DemoObserver.csproj", "{4CA3150C-0F6F-4E99-9615-065F1C9CE316}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CA3150C-0F6F-4E99-9615-065F1C9CE316}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CA3150C-0F6F-4E99-9615-065F1C9CE316}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CA3150C-0F6F-4E99-9615-065F1C9CE316}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CA3150C-0F6F-4E99-9615-065F1C9CE316}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4CA3150C-0F6F-4E99-9615-065F1C9CE316} = {4BC41FBD-45CB-4419-91B9-020EC4E6E1FF}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D781DE2B-A281-43D8-A6A5-D21CDBD08B08}
+	EndGlobalSection
+EndGlobal
