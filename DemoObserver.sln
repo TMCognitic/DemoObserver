@@ -15,6 +15,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 Utilisation des délégu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoObserverV2", "DemoObserverV2\DemoObserverV2.csproj", "{2E600A48-00C6-41A4-B935-0541C045DB87}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03 Optimisation des délégués", "03 Optimisation des délégués", "{C74E8E3D-1698-46DF-ADD6-719A40BF23B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoObserverV3", "DemoObserverV3\DemoObserverV3.csproj", "{D7945899-0A75-40E0-A2B9-EB7EE51459A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,10 @@ Global
 		{2E600A48-00C6-41A4-B935-0541C045DB87}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E600A48-00C6-41A4-B935-0541C045DB87}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E600A48-00C6-41A4-B935-0541C045DB87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7945899-0A75-40E0-A2B9-EB7EE51459A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7945899-0A75-40E0-A2B9-EB7EE51459A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7945899-0A75-40E0-A2B9-EB7EE51459A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7945899-0A75-40E0-A2B9-EB7EE51459A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -41,6 +49,7 @@ Global
 		{4CA3150C-0F6F-4E99-9615-065F1C9CE316} = {4BC41FBD-45CB-4419-91B9-020EC4E6E1FF}
 		{DFD65291-BEE0-405A-BF55-2F8F6D6BB4BA} = {2DD8CAB7-D8B5-4714-85BF-118A230E2FB6}
 		{2E600A48-00C6-41A4-B935-0541C045DB87} = {D8DD6448-F3F1-44F9-99E6-D6AAF34B9AE6}
+		{D7945899-0A75-40E0-A2B9-EB7EE51459A8} = {C74E8E3D-1698-46DF-ADD6-719A40BF23B1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D781DE2B-A281-43D8-A6A5-D21CDBD08B08}
