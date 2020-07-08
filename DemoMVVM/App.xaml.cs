@@ -16,7 +16,7 @@ namespace DemoMVVM
     {
         public App()
         {
-            Messenger<string>.Instance.Register(OnNewMessage);
+            Messenger<string>.Instance.Register("App", OnNewMessage);
         }
 
         private void OnNewMessage(string message)

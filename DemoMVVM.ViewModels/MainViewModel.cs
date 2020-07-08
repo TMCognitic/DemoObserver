@@ -110,7 +110,7 @@ namespace DemoMVVM.ViewModels
         {
             Items.Add(Value);
             //Ouvrir la ResultWindow
-            Messenger<string>.Instance.Send("OpenResultWindow");
+            Messenger<string>.Instance.Send("App", "OpenResultWindow");
         }
 
         private bool CanAdd()
